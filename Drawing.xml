@@ -22,7 +22,7 @@
       <block type="movement_setmotors" id="74" inline="true">
         <value name="BOTHMOVLEFT">
           <block type="math_number" id="109">
-            <field name="NUM">90</field>
+            <field name="NUM">10</field>
           </block>
         </value>
         <value name="BOTHMOVRIGHT">
@@ -41,7 +41,7 @@
               <block type="movement_setmotors" id="142" inline="true">
                 <value name="BOTHMOVLEFT">
                   <block type="math_number" id="190">
-                    <field name="NUM">80</field>
+                    <field name="NUM">11</field>
                   </block>
                 </value>
                 <value name="BOTHMOVRIGHT">
@@ -60,7 +60,7 @@
                       <block type="movement_setmotors" id="166" inline="true">
                         <value name="BOTHMOVLEFT">
                           <block type="math_number" id="204">
-                            <field name="NUM">70</field>
+                            <field name="NUM">12</field>
                           </block>
                         </value>
                         <value name="BOTHMOVRIGHT">
@@ -79,7 +79,7 @@
                               <block type="movement_setmotors" id="177" inline="true">
                                 <value name="BOTHMOVLEFT">
                                   <block type="math_number" id="218">
-                                    <field name="NUM">60</field>
+                                    <field name="NUM">13</field>
                                   </block>
                                 </value>
                                 <value name="BOTHMOVRIGHT">
@@ -98,7 +98,7 @@
                                       <block type="movement_setmotors" id="253" inline="true">
                                         <value name="BOTHMOVLEFT">
                                           <block type="math_number" id="262">
-                                            <field name="NUM">50</field>
+                                            <field name="NUM">14</field>
                                           </block>
                                         </value>
                                         <value name="BOTHMOVRIGHT">
